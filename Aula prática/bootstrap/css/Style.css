@@ -1,0 +1,41 @@
+.bgBlack{
+    background-color: black;
+}
+.bgCor2{
+    background-color:#212429;
+    Padding: 140px;
+}
+.botao{
+    margin-left: 254px;
+}
+.bgPreto{
+    background-color: black;
+}
+.quote{
+    align-items: center;
+}
+.divo{
+    display: flex;
+    justify-content: center;
+    align-items: center;
+}
+.size1{
+    width: 280px;
+}
+.jit{
+    text-align: justify;
+}
+a:hover {
+    font-size:1em;
+    color:#6CB33E; 
+    text-decoration: none;
+    -webkit-text-stroke: 1px whitesmoke; 
+    transition-timing-function: ease-in-out;
+}
+.brilho:hover{
+    font-size:1em;
+    color:#6CB33E; 
+    text-decoration: none;
+    -webkit-text-stroke: 0,5px whitesmoke; 
+    transition-timing-function: ease-in-out;
+}
